@@ -1,2 +1,2 @@
 # Simple-Multiplayer-Game
-This simulates a multiplayer classic game of tag. 
+This simulates a multiplayer classic game of tag. A police tries to capture a thief that is trying to escape from the room. There are numerous levels to it. After progressing through each level, the point of views for the cop and the police changes. This means that what the player controlling the police sees may be different from what the thief sees. Furthermore, there are hidden traps that may try to hinder the player's movements. The multiplayer functionality is achieved through AWS.
