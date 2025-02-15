@@ -37,9 +37,16 @@ The multiplayer functionality is implemented using:
 ```
 git clone https://github.com/astrea25/Cops-vs-Robbers.git
 ```
-2. Start the GameServer by running the main class:
+2. Start the game by running the server classes:
 ```
+# First terminal - Start the server
 java GameServer
+
+# Second terminal - Start first player (will be the thief)
+java PlayerFrame
+
+# Third terminal - Start second player (will be the police)
+java PlayerFrame
 ```
 3. Server will wait for 2 players to connect
 4. Once both players are connected, the game automatically starts
